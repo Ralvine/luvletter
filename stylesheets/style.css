@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+
 @font-face {
   font-family: 'Satisfy';
   font-style: normal;
@@ -104,7 +107,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 /* body */
 
 body {
-  font-family: Satisfy, serif;
+  font-family: 'Ma Shan Zheng', serif;
   color: #837362;
   background: #fbf8f7; }
 
